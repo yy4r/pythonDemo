@@ -1,0 +1,200 @@
+[
+  {
+    "Name": "Avery Bradley",
+    "Team": "Boston Celtics",
+    "Number": 0.0,
+    "Position": "PG",
+    "Age": 25.0,
+    "Height": "6-2",
+    "Weight": 180.0,
+    "College": "Texas",
+    "Salary": 7730337.0
+  },
+  {
+    "Name": "Jae Crowder",
+    "Team": "Boston Celtics",
+    "Number": 99.0,
+    "Position": "SF",
+    "Age": 25.0,
+    "Height": "6-6",
+    "Weight": 235.0,
+    "College": "Marquette",
+    "Salary": 6796117.0
+  },
+  {
+    "Name": "John Holland",
+    "Team": "Boston Celtics",
+    "Number": 30.0,
+    "Position": "SG",
+    "Age": 27.0,
+    "Height": "6-5",
+    "Weight": 205.0,
+    "College": "Boston University",
+    "Salary": 6796117.0
+  },
+  {
+    "Name": "R.J. Hunter",
+    "Team": "Boston Celtics",
+    "Number": 28.0,
+    "Position": "SG",
+    "Age": 22.0,
+    "Height": "6-5",
+    "Weight": 185.0,
+    "College": "Georgia State",
+    "Salary": 1148640.0
+  },
+  {
+    "Name": "Jonas Jerebko",
+    "Team": "Boston Celtics",
+    "Number": 8.0,
+    "Position": "PF",
+    "Age": 29.0,
+    "Height": "6-10",
+    "Weight": 231.0,
+    "College": "Georgia",
+    "Salary": 5000000.0
+  },
+  {
+    "Name": "Amir Johnson",
+    "Team": "Boston Celtics",
+    "Number": 90.0,
+    "Position": "PF",
+    "Age": 29.0,
+    "Height": "6-9",
+    "Weight": 240.0,
+    "College": "Georgia",
+    "Salary": 12000000.0
+  },
+  {
+    "Name": "Jordan Mickey",
+    "Team": "Boston Celtics",
+    "Number": 55.0,
+    "Position": "PF",
+    "Age": 21.0,
+    "Height": "6-8",
+    "Weight": 235.0,
+    "College": "LSU",
+    "Salary": 1170960.0
+  },
+  {
+    "Name": "Kelly Olynyk",
+    "Team": "Boston Celtics",
+    "Number": 41.0,
+    "Position": "C",
+    "Age": 25.0,
+    "Height": "7-0",
+    "Weight": 238.0,
+    "College": "Gonzaga",
+    "Salary": 2165160.0
+  },
+  {
+    "Name": "Terry Rozier",
+    "Team": "Boston Celtics",
+    "Number": 12.0,
+    "Position": "PG",
+    "Age": 22.0,
+    "Height": "6-2",
+    "Weight": 190.0,
+    "College": "Louisville",
+    "Salary": 1824360.0
+  },
+  {
+    "Name": "Marcus Smart",
+    "Team": "Boston Celtics",
+    "Number": 36.0,
+    "Position": "PG",
+    "Age": 22.0,
+    "Height": "6-4",
+    "Weight": 220.0,
+    "College": "Oklahoma State",
+    "Salary": 3431040.0
+  },
+  {
+    "Name": "Jared Sullinger",
+    "Team": "Boston Celtics",
+    "Number": 7.0,
+    "Position": "C",
+    "Age": 24.0,
+    "Height": "6-9",
+    "Weight": 260.0,
+    "College": "Ohio State",
+    "Salary": 2569260.0
+  },
+  {
+    "Name": "Isaiah Thomas",
+    "Team": "Boston Celtics",
+    "Number": 4.0,
+    "Position": "PG",
+    "Age": 27.0,
+    "Height": "5-9",
+    "Weight": 185.0,
+    "College": "Washington",
+    "Salary": 6912869.0
+  },
+  {
+    "Name": "Evan Turner",
+    "Team": "Boston Celtics",
+    "Number": 11.0,
+    "Position": "SG",
+    "Age": 27.0,
+    "Height": "6-7",
+    "Weight": 220.0,
+    "College": "Ohio State",
+    "Salary": 3425510.0
+  },
+  {
+    "Name": "James Young",
+    "Team": "Boston Celtics",
+    "Number": 13.0,
+    "Position": "SG",
+    "Age": 20.0,
+    "Height": "6-6",
+    "Weight": 215.0,
+    "College": "Kentucky",
+    "Salary": 1749840.0
+  },
+  {
+    "Name": "Tyler Zeller",
+    "Team": "Boston Celtics",
+    "Number": 44.0,
+    "Position": "C",
+    "Age": 26.0,
+    "Height": "7-0",
+    "Weight": 253.0,
+    "College": "North Carolina",
+    "Salary": 2616975.0
+  },
+  {
+    "Name": "Bojan Bogdanovic",
+    "Team": "Brooklyn Nets",
+    "Number": 44.0,
+    "Position": "SG",
+    "Age": 27.0,
+    "Height": "6-8",
+    "Weight": 216.0,
+    "College": "Carolina",
+    "Salary": 3425510.0
+  },
+  {
+    "Name": "Markel Brown",
+    "Team": "Brooklyn Nets",
+    "Number": 22.0,
+    "Position": "SG",
+    "Age": 24.0,
+    "Height": "6-3",
+    "Weight": 190.0,
+    "College": "Oklahoma State",
+    "Salary": 845059.0
+  },
+  {
+    "Name": "Wayne Ellington",
+    "Team": "Brooklyn Nets",
+    "Number": 21.0,
+    "Position": "SG",
+    "Age": 28.0,
+    "Height": "6-4",
+    "Weight": 200.0,
+    "College": "North Carolina",
+    "Salary": 1500000.0
+  }
+]
