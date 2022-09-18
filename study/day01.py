@@ -1,7 +1,3 @@
-# coding=utf-8
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
 # go语言 http://www.go.com/study abcd
 
 import json
