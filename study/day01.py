@@ -3,8 +3,8 @@
 import json
 
 if __name__ == '__main__':
-    file =open('/Users/lizi/project/pythonDemo/resource/极客时间.txt')
-    file1 =open('/Users/lizi/project/pythonDemo/resource/res.txt', mode='a')
+    file =open('resource/day01/极客时间.txt')
+    file1 =open('resource/day01/res.txt', mode='a')
     data =file.read()
     # data = file.readline()
     list = data.split('\n')
